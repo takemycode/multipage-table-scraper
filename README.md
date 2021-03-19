@@ -1,2 +1,2 @@
-# multipage-table-scraper
-This Python script scrape a multipage table
+#Multipage table scraper
+This (very basic) Python script scrape a multipage table interacting with a dropdown menu
